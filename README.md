@@ -8,6 +8,7 @@
 <a href="https://www.hackerrank.com/siddhi_sritha_s1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="siddhi_sritha_s1" height="30" width="40" /></a>
 </p>
 <h3>About</h3><hr>
+
 - 👀 I’m interested in Learning **New Skills**
 
 - 🌱 I’m currently learning **DS using C++**
