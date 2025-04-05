@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Siddhi Shetkar</h1>
 <h3 align="center">I am a first-year undergraduate student in the Department of Information Technology at Chaitanya Bharathi Institute of Technology (CBIT), enthusiastic about coding and continually developing my coding-related skills in areas such as programming languages, data structures, algorithms, and software development.</h3>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhi-shetkar&show_icons=true&locale=en&layout=compact" alt="siddhi-shetkar" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/siddhi_sritha_s1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="siddhi_sritha_s1" height="30" width="40" /></a>
