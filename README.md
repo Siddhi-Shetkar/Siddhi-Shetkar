@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhi Shetkar</h1>
-<h3 align="center">I'm an undergraduate at the Department of Information Technology, CBIT, Hyderabad.</h3>
+<h3 align="center">I am an undergraduate student in the Department of Information Technology at Chaitanya Bharathi Institute of Technology (CBIT), enthusiastic about coding and continually developing my coding-related skills in areas such as programming languages, data structures, algorithms, and software development.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
