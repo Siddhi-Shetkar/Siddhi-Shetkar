@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhi Shetkar</h1>
-<h3 align="center">First-year Information Technology undergraduate at Chaitanya Bharathi Institute of Technology (CBIT) with a strong interest in coding, actively building skills in programming, data structures, algorithms, and software development.</h3>
+<h3 align="center">Second-year Information Technology undergraduate at Chaitanya Bharathi Institute of Technology (CBIT) with a strong interest in coding, actively building skills in programming, data structures, algorithms, and software development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhi-shetkar&label=Profile%20views&color=0e75b6&style=flat" alt="siddhi-shetkar" /> </p>
 
