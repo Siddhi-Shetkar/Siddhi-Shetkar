@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in Learning New Skills
 
-- 🌱 I’m currently learning DS using C++
+- 🌱 Currently exploring Cloud Computing and strengthening problem-solving skills
 
 - 😄 Pronouns: she/her
 
